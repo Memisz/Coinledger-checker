@@ -1,5 +1,5 @@
 import requests
-from pystyles import Colors
+from styling import Colors
 from bs4 import BeautifulSoup
 
 while True:
