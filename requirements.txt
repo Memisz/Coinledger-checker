@@ -1,4 +1,3 @@
 requests
-Antivm
-pystyles
+Styling
 beautifulsoup4
