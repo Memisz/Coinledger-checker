@@ -1,5 +1,5 @@
 import requests
-from styling import Colors
+from styler import Colors
 from bs4 import BeautifulSoup
 
 while True:
